@@ -5,6 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Modo Futuro</title> 
   <!-- Favicons -->
+ 
   <link rel="shortcut icon" href="favicon.png">
   <link rel="apple-touch-icon" href="apple-touch-icon.png">
   <link rel="apple-touch-icon" sizes="72x72" href="apple-touch-icon-72x72.png">
@@ -41,11 +42,18 @@
     </div>
   </div>
 
+  <style>
+    img {
+    max-width: 100%;
+    max-height: 100%;
+  }
+  </style>
   <!-- Header -->
   <header id="top" class="header-home">
     <div class="brand-panel">
       <a href="#top" class="brand js-target-scroll">
-        MODO<span class="text-primary">.</span>FUTURO
+      <img src="/img/logo/logo.png"  width="300" height="100">
+        <!-- MODO<span class="text-primary">.</span>FUTURO -->
       </a>
       <div class="brand-name">ModoFuturo</div>
       <div class="slide-number">
@@ -145,7 +153,7 @@
             <!-- Slide 1 -->
             <li  data-transition="slotzoom-horizontal" data-slotamount="7" data-masterspeed="1000" data-fsmasterspeed="1000">
               <!-- Main image-->
-              <img src="img/slider/slide1.jpg"  alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg">
+              <img src="img/slider/slide1.png"  alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg">
 
               <!-- Layer 1 -->
               <div class="slide-title tp-caption tp-resizeme" 
@@ -165,11 +173,11 @@
                 data-splitin="chars" 
                 data-splitout="none" 
                 data-responsive_offset="on" 
-                data-elementdelay="0.05">Concert hall in new york
+                data-elementdelay="0.05">Construção de Marca
               </div>
 
               <!-- Layer 2 -->
-              <div class="slide-subtitle tp-caption tp-resizeme"
+              <!-- <div class="slide-subtitle tp-caption tp-resizeme"
                 data-x="['right','right','right','right']" data-hoffset="['0']" 
                 data-y="['middle','middle','middle','middle']" data-voffset="['75','105']"
                 data-fontsize="['18','19']" 
@@ -184,7 +192,7 @@
                 data-splitout="none">Concert Hall is the architecture of a new generation, a building<br> 
                 that exists not only in the dimension of space,<br> 
                 but also in the dimension of time and communication. 
-              </div>
+              </div> -->
 
               <!-- Layer 3 -->
               <div class="tp-caption"
@@ -706,7 +714,7 @@
       <section id="contacts" class="contacts section">
         <div class="container">
           <header class="section-header">
-            <h2 class="section-title">Entre <span class="text-primary">en contato</span></h2>
+            <h2 class="section-title">Entre <span class="text-primary">em contato</span></h2>
             <strong class="fade-title-right">contato</strong>
           </header>
           <div class="section-content">
