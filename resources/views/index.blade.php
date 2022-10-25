@@ -1,170 +1,153 @@
 <!DOCTYPE HTML>
 <html lang="en">
 <head>
-<meta  charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Go.arch  - Architecture | Interiors |  Real Estate Landing Page</title> 
-
-<!-- Favicons -->
-<link rel="shortcut icon" href="favicon.png">
-<link rel="apple-touch-icon" href="apple-touch-icon.png">
-<link rel="apple-touch-icon" sizes="72x72" href="apple-touch-icon-72x72.png">
-<link rel="apple-touch-icon" sizes="114x114" href="apple-touch-icon-114x114.png">
-
-<!-- Styles -->
-<link href="https://fonts.googleapis.com/css?family=Oswald:300,400,700" rel="stylesheet">
-<link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet">
-<link href="css/style.css" rel="stylesheet" media="screen">
+  <meta  charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Modo Futuro</title> 
+  <!-- Favicons -->
+  <link rel="shortcut icon" href="favicon.png">
+  <link rel="apple-touch-icon" href="apple-touch-icon.png">
+  <link rel="apple-touch-icon" sizes="72x72" href="apple-touch-icon-72x72.png">
+  <link rel="apple-touch-icon" sizes="114x114" href="apple-touch-icon-114x114.png">
+  <!-- Styles -->
+  <link href="https://fonts.googleapis.com/css?family=Oswald:300,400,700" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet">
+  <link href="css/style.css" rel="stylesheet" media="screen">
 </head>
 <body>
-  
-    <!-- Loader -->
-
-    <div class="loader">
-      <div class="page-lines">
-        <div class="container">
-          <div class="col-line col-xs-4">
-            <div class="line"></div>
-          </div>
-          <div class="col-line col-xs-4">
-            <div class="line"></div>
-          </div>
-          <div class="col-line col-xs-4">
-            <div class="line"></div>
-            <div class="line"></div>
-          </div>
+  <!-- Loader -->
+  <div class="loader">
+    <div class="page-lines">
+      <div class="container">
+        <div class="col-line col-xs-4">
+          <div class="line"></div>
         </div>
-      </div>
-      <div class="loader-brand"> 
-        <div class="sk-folding-cube">
-          <div class="sk-cube1 sk-cube"></div>
-          <div class="sk-cube2 sk-cube"></div>
-          <div class="sk-cube4 sk-cube"></div>
-          <div class="sk-cube3 sk-cube"></div>
+        <div class="col-line col-xs-4">
+          <div class="line"></div>
+        </div>
+        <div class="col-line col-xs-4">
+          <div class="line"></div>
+          <div class="line"></div>
         </div>
       </div>
     </div>
-
-    <!-- Header -->
-
-    <header id="top" class="header-home">
-      <div class="brand-panel">
-        <a href="#top" class="brand js-target-scroll">
-          go<span class="text-primary">.</span>arch
-        </a>
-        <div class="brand-name">Go.arch</div>
-        <div class="slide-number">
-          <span class="current-number text-primary">0<span class="count">1</span></span>
-          <sup><span class="delimiter">/</span> 0<span class="total-count"></span></sup>
-        </div>
+    <div class="loader-brand"> 
+      <div class="sk-folding-cube">
+        <div class="sk-cube1 sk-cube"></div>
+        <div class="sk-cube2 sk-cube"></div>
+        <div class="sk-cube4 sk-cube"></div>
+        <div class="sk-cube3 sk-cube"></div>
       </div>
-      <div class="header-phone">+7 (212) 674-25-10</div>
-      <div class="vertical-panel"></div>
-      <div class="vertical-panel-content">
-        <div class="vertical-panel-info">
-            <div class="vertical-panel-title">Architecture buro</div>
-            <div class="line"></div>
-         </div>
-        <ul class="social-list">
-          <li><a href="" class="fa fa-instagram"></a></li>
-          <li><a href="" class="fa fa-twitter"></a></li>
-          <li><a href="" class="fa fa-behance"></a></li>
-          <li><a href="" class="fa fa-facebook"></a></li>
-         </ul>  
-      </div> 
+    </div>
+  </div>
 
-      <!-- Navigation Desctop -->
+  <!-- Header -->
+  <header id="top" class="header-home">
+    <div class="brand-panel">
+      <a href="#top" class="brand js-target-scroll">
+        MODO<span class="text-primary">.</span>FUTURO
+      </a>
+      <div class="brand-name">ModoFuturo</div>
+      <div class="slide-number">
+        <span class="current-number text-primary">0<span class="count">1</span></span>
+        <sup><span class="delimiter">/</span> 0<span class="total-count"></span></sup>
+      </div>
+    </div>
 
-      <nav class="navbar-desctop visible-md visible-lg">
-        <div class="container">
-          <a href="#top" class="brand js-target-scroll">
-            go<span class="text-primary">.</span>arch
-          </a>
-          <ul class="nav navbar-desctop-menu">
-            <li class="active">
-              <a href="#top">Home</a>
-            </li>
-            <li>
-              <a href="#about">About</a>
-            </li>
-            <li>
-              <a href="#projects">Projects</a>
-            </li>  
-            <li>
-              <a href="#services">Services</a>
-            </li>
-            <li>
-              <a href="#contacts">Contacts</a>
-            </li>
-          </ul>
+    <!-- <div class="header-phone">+7 (212) 674-25-10</div> -->
+    <div class="vertical-panel"></div>
+    <div class="vertical-panel-content">
+      <div class="vertical-panel-info">
+          <div class="vertical-panel-title">DESING DE NEGÔCIOS</div>
+          <div class="line"></div>
         </div>
-      </nav>
+      <ul class="social-list">
+        <li><a href="" class="fa fa-instagram"></a></li>
+        <li><a href="" class="fa fa-twitter"></a></li>
+        <li><a href="" class="fa fa-behance"></a></li>
+        <li><a href="" class="fa fa-facebook"></a></li>
+        </ul>  
+    </div> 
 
-      <!-- Navigation Mobile -->
-
-      <nav class="nav navbar-mobile">
+    <!-- Navigation Desktop -->
+    <nav class="navbar-desctop visible-md visible-lg">
+      <div class="container">
         <a href="#top" class="brand js-target-scroll">
           go<span class="text-primary">.</span>arch
         </a>
+        <ul class="nav navbar-desctop-menu">
+          <li class="active">
+            <a href="#top">Home</a>
+          </li>
+          <li>
+            <a href="#about">Sobre</a>
+          </li>
+          <li>
+            <a href="#projects">Projectos</a>
+          </li>  
+          <li>
+            <a href="#services">Services</a>
+          </li>
+          <li>
+            <a href="#contacts">Contacts</a>
+          </li>
+        </ul>
+      </div>
+    </nav>
 
-        <!-- Navbar Collapse -->
+    <!-- Navigation Mobile -->
+    <nav class="nav navbar-mobile">
+      <a href="#top" class="brand js-target-scroll">
+        go<span class="text-primary">.</span>arch
+      </a>
 
-        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-mobile">
-          <span class="sr-only">Toggle navigation</span>
-          <span class="icon-bar"></span>
-          <span class="icon-bar"></span>
-          <span class="icon-bar"></span>
-        </button>
+      <!-- Navbar Collapse -->
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-mobile">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
 
-        <div class="collapse navbar-collapse" id="navbar-mobile"> 
-          <ul class="navbar-nav-mobile">
-            <li class="active">
-              <a href="#top">Home</a>
-            </li>
-            <li>
-              <a href="#about">About</a>
-            </li>
-            <li>
-              <a href="#projects">Projects</a>
-            </li>  
-            <li>
-              <a href="#clients">Clients</a>
-            </li>
-            <li>
-              <a href="#contacts">Contacts</a>
-            </li>
-          </ul>
-        </div>
-      </nav> 
-    </header>
+      <div class="collapse navbar-collapse" id="navbar-mobile"> 
+        <ul class="navbar-nav-mobile">
+          <li class="active">
+            <a href="#top">Home</a>
+          </li>
+          <li>
+            <a href="#about">Sobre</a>
+          </li>
+          <li>
+            <a href="#projects">Projectos</a>
+          </li>  
+          <li>
+            <a href="#clients">Clients</a>
+          </li>
+          <li>
+            <a href="#contacts">Contacts</a>
+          </li>
+        </ul>
+      </div>
+    </nav> 
+  </header>
 
   <!-- Layout -->
-
   <div class="layout">
-    
     <!-- Home -->
-    
     <main class="main">
-
       <div class="arrow-left"></div>
       <div class="arrow-right"></div>
 
       <!-- Start revolution slider -->
-
       <div class="rev_slider_wrapper">
         <div id="rev_slider" class="rev_slider fullscreenbanner">
           <ul>
-
             <!-- Slide 1 -->
-
             <li  data-transition="slotzoom-horizontal" data-slotamount="7" data-masterspeed="1000" data-fsmasterspeed="1000">
-
               <!-- Main image-->
-
               <img src="img/slider/slide1.jpg"  alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg">
 
               <!-- Layer 1 -->
-
               <div class="slide-title tp-caption tp-resizeme" 
                 data-x="['right','right','right','right']" data-hoffset="['-18','-18','-18','-18']" 
                 data-y="['middle','middle','middle','middle']" data-voffset="['-35','-35', '-25']"
@@ -186,7 +169,6 @@
               </div>
 
               <!-- Layer 2 -->
-
               <div class="slide-subtitle tp-caption tp-resizeme"
                 data-x="['right','right','right','right']" data-hoffset="['0']" 
                 data-y="['middle','middle','middle','middle']" data-voffset="['75','105']"
@@ -205,7 +187,6 @@
               </div>
 
               <!-- Layer 3 -->
-
               <div class="tp-caption"
                 data-x="['right','right','right','right']" data-hoffset="['0','0','0','0']" 
                 data-y="['middle','middle','middle','middle']" data-voffset="['195','215']"
@@ -227,15 +208,11 @@
             </li>
 
             <!-- Slide 2 -->
-
             <li data-transition="slotzoom-horizontal" data-slotamount="7" data-easein="Power3.easeInOut" data-easeout="Power3.easeInOut" data-masterspeed="1000">
-
               <!-- Main image -->
-
               <img src="img/slider/slide2.jpg"  alt=""  data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg">
 
               <!-- Layer 1 -->
-
               <div class="slide-title tp-caption tp-resizeme" 
                 data-x="['right','right','right','right']" data-hoffset="['-18','-18','-18','-18']" 
                 data-y="['middle','middle','middle','middle']" data-voffset="['-35','-35', '-55']"
@@ -256,9 +233,7 @@
                 data-elementdelay="0.05">Exhibition center in boston
               </div>
 
-
               <!-- Layer 2 -->
-
               <div class="slide-subtitle tp-caption tp-resizeme"
                 data-x="['right','right','right','right']" data-hoffset="['0']" 
                 data-y="['middle','middle','middle','middle']" data-voffset="['75','105']"
@@ -277,7 +252,6 @@
               </div>
 
               <!-- Layer 3 -->
-
               <div class="tp-caption"
                 data-x="['right','right','right','right']" data-hoffset="['0','0','0','0']" 
                 data-y="['middle','middle','middle','middle']" data-voffset="['195','215']"
@@ -299,15 +273,11 @@
             </li>
 
             <!-- Slide 3 -->
-
             <li data-transition="slotzoom-horizontal" data-slotamount="7" data-easein="Power3.easeInOut" data-easeout="Power3.easeInOut" data-masterspeed="1000">
-
               <!-- Main image-->
-
               <img src="img/slider/slide3.jpg"  alt=""  data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg">
 
               <!-- Layer 1 -->
-
               <div class="slide-title tp-caption tp-resizeme" 
                 data-x="['right','right','right','right']" data-hoffset="['-18','-18','-18','-18']" 
                 data-y="['middle','middle','middle','middle']" data-voffset="['-35','-35', '-25']"
@@ -328,9 +298,7 @@
                 data-elementdelay="0.05">Modern hotel in london
               </div>
 
-
               <!-- Layer 2 -->
-
               <div class="slide-subtitle tp-caption tp-resizeme"
                 data-x="['right','right','right','right']" data-hoffset="['0']" 
                 data-y="['middle','middle','middle','middle']" data-voffset="['75','105']"
@@ -349,7 +317,6 @@
               </div>
 
               <!-- Layer 3 -->
-
               <div class="tp-caption"
                 data-x="['right','right','right','right']" data-hoffset="['0','0','0','0']" 
                 data-y="['middle','middle','middle','middle']" data-voffset="['195','215']"
@@ -374,22 +341,20 @@
       </div>
     </main>
 
-    <div class="content">   
-    
+    <div class="content">
       <!-- About  -->
-
       <section id="about" class="about section">
         <div class="container">
           <header class="section-header">
-            <h2 class="section-title">About <span class="text-primary">go.arch</span></h2>
-            <strong class="fade-title-left">About</strong>
+            <h2 class="section-title">Sobre <span class="text-primary">o modo futuro</span></h2>
+            <strong class="fade-title-left">sobre</strong>
           </header>
           <div class="section-content">
             <div class="row-base row">
               <div class="col-base col-sm-6 col-md-4">
-                <h3 class="col-about-title">we turn ideas into works of art<span class="text-primary">.</span></h3>
+                <h3 class="col-about-title">Tecnologia criativa para negôcios do futuro<span class="text-primary">.</span></h3>
                 <div class="col-about-info">
-                  <p>For each project we establish relationships with partners who we know will help us create added value for your project. As well as bringing together the public and private sectors, we make sector-overarching links to gather knowledge and to learn from each other. The way we undertake projects is based on permanently applying values that reinforce each other: socio-cultural value, experiental value, building-technical value and economical value.</p>
+                  <p>Somos uma plataforma de transformação que executa projetos de negócios com criatividade e tecnologia, focando em soluções de negócios para a nova realidade conectada. Acreditamos que a metodologia de design aplicada aos negócios de forma criativa, transforma ideias em soluções de valor para o mercado.</p>
                 </div>
               </div>
               <div class="col-base col-about-spec col-sm-6 col-md-4">
@@ -417,7 +382,6 @@
       </section>
 
       <!-- Projects -->
-
       <section id="projects" class="projects section">
         <div class="container">
           <h2 class="section-title">Our <span class="text-primary">projects</span></h2>
@@ -557,7 +521,6 @@
       </section>
 
       <!-- Services -->
-
       <section id="services" class="services section">
         <div class="container">
           <header class="section-header">
@@ -594,7 +557,6 @@
       </section>
 
       <!-- Experience -->
-
       <section class="experience section">
         <div class="container">
           <div class="text-parallax" data-stellar-background-ratio="0.85" style="background-image: url('img/bg/text-1.jpg');">
@@ -605,7 +567,6 @@
       </section>
 
       <!-- Clients  -->
-
       <section id="clients" class="clients section">
         <div class="container">
           <header class="section-header">
@@ -639,7 +600,6 @@
       </section>
 
       <!-- Objects -->
-
       <section id="objects" class="objects section">
         <div class="container">
           <header class="section-header">
@@ -650,7 +610,6 @@
               <img alt="" class="img-responsive" src="img/map.png">
 
               <!-- Objects -->
-
               <div class="object-label" style="left:12.6%; top:42%;">
                 <div class="object-info">
                   <h3 class="object-title">New York</h3>
@@ -744,20 +703,19 @@
       </section>
 
       <!-- Contacts -->
-
       <section id="contacts" class="contacts section">
         <div class="container">
           <header class="section-header">
-            <h2 class="section-title">Get <span class="text-primary">in touch</span></h2>
-            <strong class="fade-title-right">contacts</strong>
+            <h2 class="section-title">Entre <span class="text-primary">en contato</span></h2>
+            <strong class="fade-title-right">contato</strong>
           </header>
           <div class="section-content">
             <div class="row-base row">
               <div class="col-address col-base col-md-4">
-                +7 (212) 654-33-35<br>
-                +7 (212) 287-85-22<br>
-                info@goarch.com<br>
-                USA, New York, 57 Quigley Bridge
+                +55 (41) 99700-8853<br>
+                contato@modofuturo.com<br>
+                Centro Cívico, Curitiba - PR<br>
+                Avenida Cândido de Abreu, 381
               </div>
               <div class="col-base  col-md-8">
                 <form class="js-ajax-form">
@@ -799,7 +757,6 @@
       </section>
 
       <!-- Footer -->
-
       <footer id="footer" class="footer">     
         <div class="container">
           <div class="row-base row">
@@ -810,18 +767,17 @@
             </div>
             <div class="text-center-md col-base col-md-4">
               <a href="https://themeforest.net/user/murren20" class="author-link">
-                by Murren20
+                by MODO FUTURO
               </a>
             </div>
             <div class="text-right-md col-base col-md-4">
-              © go.arch 2016. All Rights Reserved.
+              © modofuturo 2022. All Rights Reserved.
             </div>
           </div>
         </div>
       </footer>
 
       <!-- Lines -->
-
       <div class="page-lines">
         <div class="container">
           <div class="col-line col-xs-4">
@@ -839,31 +795,30 @@
     </div>
   </div>
 
-<!-- SCRIPTS -->
+  <!-- SCRIPTS -->
+  <script src="js/jquery.min.js"></script>
+  <script src="js/bootstrap.min.js"></script>
+  <script src="js/smoothscroll.js"></script>
+  <script src="js/jquery.validate.min.js"></script>
+  <script src="js/wow.min.js"></script>
+  <script src="js/jquery.stellar.min.js"></script>
+  <script src="js/jquery.magnific-popup.js"></script>
+  <script src="js/owl.carousel.min.js"></script>
 
-<script src="js/jquery.min.js"></script>
-<script src="js/bootstrap.min.js"></script>
-<script src="js/smoothscroll.js"></script>
-<script src="js/jquery.validate.min.js"></script>
-<script src="js/wow.min.js"></script>
-<script src="js/jquery.stellar.min.js"></script>
-<script src="js/jquery.magnific-popup.js"></script>
-<script src="js/owl.carousel.min.js"></script>
+  <!-- SLIDER REVOLUTION -->
+  <script src="js/rev-slider/jquery.themepunch.tools.min.js"></script>
+  <script src="js/rev-slider/jquery.themepunch.revolution.min.js"></script>
 
-<!-- SLIDER REVOLUTION -->
-<script src="js/rev-slider/jquery.themepunch.tools.min.js"></script>
-<script src="js/rev-slider/jquery.themepunch.revolution.min.js"></script>
-
-<!-- SLIDER REVOLUTION 5.0 EXTENSIONS   -->
-<script src="js/rev-slider/revolution.extension.actions.min.js"></script>
-<script src="js/rev-slider/revolution.extension.carousel.min.js"></script>
-<script src="js/rev-slider/revolution.extension.kenburn.min.js"></script>
-<script src="js/rev-slider/revolution.extension.layeranimation.min.js"></script>
-<script src="js/rev-slider/revolution.extension.migration.min.js"></script>
-<script src="js/rev-slider/revolution.extension.navigation.min.js"></script>
-<script src="js/rev-slider/revolution.extension.parallax.min.js"></script>
-<script src="js/rev-slider/revolution.extension.slideanims.min.js"></script>
-<script src="js/rev-slider/revolution.extension.video.min.js"></script>
-<script src="js/interface.js"></script> 
+  <!-- SLIDER REVOLUTION 5.0 EXTENSIONS   -->
+  <script src="js/rev-slider/revolution.extension.actions.min.js"></script>
+  <script src="js/rev-slider/revolution.extension.carousel.min.js"></script>
+  <script src="js/rev-slider/revolution.extension.kenburn.min.js"></script>
+  <script src="js/rev-slider/revolution.extension.layeranimation.min.js"></script>
+  <script src="js/rev-slider/revolution.extension.migration.min.js"></script>
+  <script src="js/rev-slider/revolution.extension.navigation.min.js"></script>
+  <script src="js/rev-slider/revolution.extension.parallax.min.js"></script>
+  <script src="js/rev-slider/revolution.extension.slideanims.min.js"></script>
+  <script src="js/rev-slider/revolution.extension.video.min.js"></script>
+  <script src="js/interface.js"></script> 
 </body>
 </html>

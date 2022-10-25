@@ -1,5 +1,4 @@
 /* ------------------------------------------------------------------------------
-
   Template Name: Go.arch 
   Description: Go.arch  - Architecture | Interiors |  Real Estate Landing Page
   Author: Murren
@@ -7,34 +6,29 @@
   Version: 1.0
   
   1.  Global
-
-      1.1 General
-      1.2 Typography
-      1.3 Fields
-      1.4 Buttons
-      1.5 Icons
-      1.6 Loader
-      1.7 Content styles
+    1.1 General
+    1.2 Typography
+    1.3 Fields
+    1.4 Buttons
+    1.5 Icons
+    1.6 Loader
+    1.7 Content styles
 
   2.  Header 
-
-      2.1 Brand
-      2.2 Vertical Panel
-      2.3 Navbar Desctop
-      2.4 Navbar Desctop Affix
-      2.5 Navbar Mobile
-      2.6 Navbar Mobile Affix
-      
+    2.1 Brand
+    2.2 Vertical Panel
+    2.3 Navbar Desctop
+    2.4 Navbar Desctop Affix
+    2.5 Navbar Mobile
+    2.6 Navbar Mobile Affix
 
   3.  Main
-
-      3.1 Slider
+    3.1 Slider
 
   4.  About
   5.  Projects
-
-      5.1 Project Carousel
-      5.2 Magnific popup
+    5.1 Project Carousel
+    5.2 Magnific popup
 
   6.  Services
   7.  Experience
@@ -43,24 +37,16 @@
   10.  Contacts  
   11. Footer
   12. Responsive styles
+    12.1 Min width: 768px
+    12.2 Min width 992px
+    12.3 Min width 1200px 
+    12.4 Max height 480px
 
-      12.1 Min width: 768px
-      12.2 Min width 992px
-      12.3 Min width 1200px 
-      12.4 Max height 480px
-
-    
-    
 /*-------------------------------------------------------------------------------
   1. Global
 -------------------------------------------------------------------------------*/
 
-
-
 /* 1.1 General */
-
-
-
 @import url('bootstrap.min.css');
 @import url('font-awesome.min.css');
 @import url('animate.css');
@@ -72,7 +58,6 @@
 @import url('layers.css');
 @import url('navigation.css');
 
-
 html{
   font-size: 75%;
   -webkit-font-smoothing: antialiased;
@@ -83,7 +68,8 @@ body{
   font-size: 1em;
   line-height: 1.65;
   color: rgba(255,255,255,0.5);
-  background-color: #272727;
+  /* background-color: #272727; */
+  background-color: #0e0f11;
 }
 
 ::-webkit-scrollbar{
@@ -93,36 +79,31 @@ body{
 
 ::-webkit-scrollbar-thumb {
   cursor: pointer;
-  background: #c5a47e;
+  /* background: #c5a47e; */
+  background: #00ea00;
 }
 
 ::selection{
-  background-color:#c5a47e;
+  background-color:#00ea00;
   color:#fff;
 }
 
 -webkit-::selection{
-    background-color:#c5a47e;
+    background-color:#00ea00;
     color:#fff;
 }
 
 ::-moz-selection{
-    background-color:#c5a47e;
+    background-color:#00ea00;
     color:#fff;
 }
 
-
-
 /* 1.2 Typography */
-
-
-
 @font-face {
   font-family: 'montserratlight';
   src: url('../fonts/montserrat/Montserrat-Light.ttf');
   font-weight: normal;
   font-style: normal;
-
 }
 
 @font-face {
@@ -130,7 +111,6 @@ body{
   src: url('../fonts/montserrat/Montserrat-SemiBold.ttf');
   font-weight: normal;
   font-style: normal;
-
 }
 
 h1,
@@ -210,7 +190,7 @@ ul{
 }
 
 a {
-  color:#c5a47e;
+  color:#00ea00;
   -webkit-transition: color .3s ease-out;
        -o-transition: color .3s ease-out;
           transition: color .3s ease-out;
@@ -218,7 +198,7 @@ a {
 
 a:hover,
 a:focus {
-  color:#c5a47e;
+  color:#00ea00;
   outline: none;
 }
 
@@ -226,12 +206,7 @@ a:focus{
   text-decoration: none;
 }
 
-
-
 /* 1.3 Fields */
-
-
-
 .form-control,
 textarea.form-control{
   font-size: 1em;
@@ -256,7 +231,7 @@ textarea.form-control{
 }
 
 .form-control:focus{
-  border-color:#c5a47e;
+  border-color:#00ea00;
   outline: 0;
   -webkit-box-shadow:none;
           box-shadow:none;
@@ -276,7 +251,7 @@ textarea.form-control{
 }
 
 .form-control.error{
-  border-color:#c5a47e;
+  border-color:#00ea00;
 }
 
 .form-group{
@@ -292,17 +267,12 @@ label.error{
   display: none!important;
 }
 
-
-
 /* 1.4 Buttons */
-
-
-
 .btn{
   font-family: 'montserratsemibold';
   position: relative;
   display: inline-block;
-  border:0.2em solid #c5a47e;
+  border:0.2em solid #00ea00;
   border-radius: 30px;
   padding:1.1em 2.2em 1.05em;
   font-size: 0.875em;
@@ -310,7 +280,7 @@ label.error{
   letter-spacing: 0.15em;
   text-transform: uppercase;
   text-decoration: none;
-  background-color: #c5a47e;
+  background-color: #00ea00;
   border:0;
   -webkit-transition: all .3s ease-out!important;
           transition: all .3s ease-out!important;
@@ -339,7 +309,7 @@ label.error{
 
 .btn-gray:hover{
 
-  background-color: #c5a47e;
+  background-color: #00ea00;
 }
 
 .btn-shadow-1{
@@ -364,12 +334,7 @@ label.error{
   background-size:0.94em 0.75em;
 }
 
-
-
 /* 1.6 Loader */
-
-
-
 .loader{
   position: fixed;
   overflow: hidden;
@@ -420,7 +385,7 @@ label.error{
   left: 0;
   width: 100%;
   height: 100%;
-  background-color: #c5a47e;
+  background-color: #00ea00;
   -webkit-animation: sk-foldCubeAngle 2.4s infinite linear both;
           animation: sk-foldCubeAngle 2.4s infinite linear both;
   -webkit-transform-origin: 100% 100%;
@@ -490,19 +455,14 @@ label.error{
   }
 }
 
-
-
 /* 1.7 Content styles */
-
-
-
 .layout{
   position: relative;
   overflow: hidden;
 }
 
 .text-primary{
-  color:#c5a47e;
+  color:#00ea00;
 }
 
 .page-lines{
@@ -579,25 +539,16 @@ label.error{
   margin-top: 7.1em;
 }
 
-
-
 /*-------------------------------------------------------------------------------
   2. Header
 -------------------------------------------------------------------------------*/
-
-
 
 .header-inner .vertical-panel-content{
   bottom:auto;
   top:12.2vmin;
 }
 
-
-
 /* 2.1 Brand */
-
-
-
 .brand-panel{
   position: absolute;
   z-index: 4;
@@ -692,12 +643,7 @@ label.error{
   }
  }
 
-
-
 /* 2.2 Vertical Panel */
-
-
-
 .vertical-panel,
 .vertical-panel-content{
   position: absolute;
@@ -768,16 +714,11 @@ label.error{
 }
 
 .social-list .fa:hover{
-  color:#c5a47e;
+  color:#00ea00;
   text-decoration: none;
 }
 
-
-
 /* 2.3 Navbar Desctop */
-
-
-
 .nav > li >a{
   padding: 0;
   
@@ -829,7 +770,7 @@ label.error{
 
 .navbar-desctop-menu li a:hover,
 .navbar-desctop-menu .active > a{
-  color:  #c5a47e;
+  color:  #00ea00;
 }
 
 .navbar-desctop-menu  > li{
@@ -886,17 +827,13 @@ label.error{
   padding: 12px 20px 10px;
 }
 
-
-
 /* 2.4 Navbar Desctop Affix */
-
-
-
 .navbar-desctop.affix{
   position: fixed;
   z-index: 5;
   top:0;
-  background-color:rgba(50, 50, 50, 0.95);
+  /* background-color:rgba(50, 50, 50, 0.95); */
+  background-color: rgba(14, 15, 17, 0.95);
   padding:1.3em 0 0;
   box-shadow: 0 0 35px rgba(0,0,0,0.1);
 }
@@ -915,15 +852,10 @@ label.error{
 
 .navbar-desctop.affix .navbar-desctop-menu li > a:hover,
 .navbar-desctop.affix .navbar-desctop-menu .active > a{
-  color:#c5a47e;
+  color:#00ea00;
 }
 
-
-
 /* 2.5 Navbar Mobile */
-
-
-
 .navbar-mobile{
   position: absolute;
   z-index: 2;
@@ -997,7 +929,7 @@ label.error{
 }
 
 .navbar-nav-mobile > .current > a{
-  color: #c5a47e;
+  color: #00ea00;
 }
 
 .navbar-nav-mobile li a .fa-angle-down{
@@ -1017,7 +949,7 @@ label.error{
 
 .navbar-nav-mobile > .active > a,
 .navbar-nav-mobile > .active > a:hover{
-  background-color: #c5a47e;
+  background-color: #00ea00;
   color: #fff;
   -webkit-transition: none;
   -o-transition: none;
@@ -1030,15 +962,10 @@ label.error{
 
 .navbar-nav-mobile li a:hover,
 .navbar-nav-mobile li .active > a{
-  color: #c5a47e;
+  color: #00ea00;
 }
 
-
-
 /* 2.6 Navbar Mobile Affix */
-
-
-
 .navbar-mobile.affix{
   position: fixed;
   z-index: 5;
@@ -1052,29 +979,19 @@ label.error{
 }
 
 .navbar-mobile.affix .navbar-toggle .icon-bar{
-  background-color:#c5a47e;
+  background-color:#00ea00;
 }
-
-
 
 /*-------------------------------------------------------------------------------
   3. Main
 -------------------------------------------------------------------------------*/
-
-
-
 .main{
   position: relative;
   overflow: hidden;
   min-height: 420px;
 }
 
-
-
 /* 3.1 Slider */
-
-
-
 .rev_slider{
   color: #fff;
   min-height: 420px;
@@ -1173,14 +1090,9 @@ label.error{
   line-height: 1.7;
 }
 
-
-
 /* ------------------------------------------------------------------------------- */
 /*  4. About
 /* ------------------------------------------------------------------------------- */
-
-
-
 .about .fade-title-left{
   top:1em;
 }
@@ -1203,14 +1115,9 @@ label.error{
   box-shadow: 0 8px 25px rgba(0,0,0,0.2);
 }
 
-
-
 /* ------------------------------------------------------------------------------- */
 /*  5. Projects
 /* ------------------------------------------------------------------------------- */
-
-
-
 .project{
   padding: 0;
   overflow: hidden;
@@ -1356,12 +1263,7 @@ label.error{
   transform:scale(1);
 }
 
-
-
 /* 5.1 Project Carousel */
-
-
-
 .owl-prev,
 .owl-next{
   position: absolute;
@@ -1400,12 +1302,7 @@ label.error{
   background-size: 1.3em 1em;
 }
 
-
-
 /* 5.2 Magnific popup */
-
-
-
 .mfp-figure{
   box-shadow: none;
 }
@@ -1427,7 +1324,6 @@ label.error{
 img.mfp-img{
   min-height: 460px;
 }
-
 
 .mfp-title{
   padding-right: 40px;
@@ -1529,14 +1425,9 @@ img.mfp-img{
   opacity: 0;
 }
 
-
-
 /* ------------------------------------------------------------------------------- */
 /*  6. Services
 /* ------------------------------------------------------------------------------- */
-
-
-
 .row-services{
   margin-left: -4.1em;
   margin-right: -4.1em;
@@ -1555,14 +1446,9 @@ img.mfp-img{
   margin-bottom: 0;
 }
 
-
-
 /* ------------------------------------------------------------------------------- */
 /*  7. Experience
 /* ------------------------------------------------------------------------------- */
-
-
-
 .experience{
   text-align: center;
 }
@@ -1597,14 +1483,9 @@ img.mfp-img{
   margin:0 0 0 0.5em;
 }
 
-
-
 /* ------------------------------------------------------------------------------- */
 /*  8. Clients
 /* ------------------------------------------------------------------------------- */
-
-
-
 .clients{
   text-align: center;
 }
@@ -1632,14 +1513,9 @@ img.mfp-img{
   opacity: 1;
 }
 
-
-
 /* ------------------------------------------------------------------------------- */
 /*  9. Objects
 /* ------------------------------------------------------------------------------- */
-
-
-
 .objects{
   position: relative;
 }
@@ -1703,7 +1579,7 @@ img.mfp-img{
   font-weight: normal;
   letter-spacing: 0.16em;
   text-transform: uppercase;
-  color:#c5a47e;
+  color:#00ea00;
   padding: 0 0 1em;
   border-bottom:1px solid rgba(249,249,249,0.2);
   margin: 0 0 .5em;
@@ -1725,14 +1601,9 @@ img.mfp-img{
   border-top-color:rgba(0,0,0,0.6);
 }
 
-
-
 /* ------------------------------------------------------------------------------- */
 /*  10. Contacts
 /* ------------------------------------------------------------------------------- */
-
-
-
 .contacts .fade-title-right{
   left: 90%;
 }
@@ -1774,14 +1645,9 @@ img.mfp-img{
   font-size: 1.5em;
 }
 
-
-
 /* ------------------------------------------------------------------------------- */
 /*  11. Footer
 /* ------------------------------------------------------------------------------- */
-
-
-
 .footer{
   text-align: center;
   padding: 7.1em 0 5.5em;
@@ -1803,32 +1669,17 @@ img.mfp-img{
   text-decoration: none;
 }
 
-
-
 /* ------------------------------------------------------------------------------- */
 /*  12. Responsive styles
 /* ------------------------------------------------------------------------------- */
 
-
-
 /* 12.1 Min width 768px */
-
-
-
 @media (min-width: 768px){
-
-
-
   html{
     font-size: 85%;
   }
 
-
-
   /* Slider */
-
-
-
   .arrow-left{
     top: 43.5vmin;
     bottom: auto;
@@ -1842,22 +1693,12 @@ img.mfp-img{
     bottom: auto;
   }
 
-
-
   /* About */
-
-
-
   .col-about-spec{
     padding: 0 4.4em;
   }
 
-
-
   /* Project Carousel */
-
-
-
   .owl-prev{
     left: 3.6em
   }
@@ -1867,26 +1708,13 @@ img.mfp-img{
   }
 }
 
-
-
 /* 12.2 Min width 992px */
-
-
-
 @media (min-width: 992px){
-
-
-
   html{
     font-size: 92%;
   }
 
-
-
   /* Content styles */
-
-
-
   .text-center-md{
     text-align: center;
   }
@@ -1899,23 +1727,14 @@ img.mfp-img{
     text-align: left;
   }
 
-
-
   /* Navbar Mobile */
-
-
   .navbar-mobile{
     position: absolute;
     left: -50000px;
     top: -50000px;
   }
 
-
-
   /* About */
-
-
-
   .col-about-img{
     padding-left: 0;
     left: -5px;
@@ -1925,43 +1744,23 @@ img.mfp-img{
     max-width: calc(100% + 5px);
   }
 
-
-
   /* Contacts */
-
-
   .row-field{
     margin-left: -15px;
   }
 }
 
-
 /* 12.3 Min width 1200px */
-
-
-
 @media (min-width: 1200px){
-
-
    html{
     font-size: 100%;
   }
 }
 
-
-
 /* 12.4 Max height 480px  */
-
-
-
   @media (max-height: 480px){
 
-
-
   /* Slider */
-
-
-
   .arrow-left{
     top: 43.5vmin;
     bottom: auto;
@@ -1975,5 +1774,3 @@ img.mfp-img{
     bottom: auto;
   }
 }
-
-
