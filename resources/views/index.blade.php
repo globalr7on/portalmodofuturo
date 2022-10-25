@@ -52,7 +52,7 @@
   <header id="top" class="header-home">
     <div class="brand-panel">
       <a href="#top" class="brand js-target-scroll">
-      <img src="/img/logo/logo.png"  width="300" height="100">
+      <img src="/img/logo/logo.png"  width="150" height="50">
         <!-- MODO<span class="text-primary">.</span>FUTURO -->
       </a>
       <div class="brand-name">ModoFuturo</div>
@@ -81,7 +81,8 @@
     <nav class="navbar-desctop visible-md visible-lg">
       <div class="container">
         <a href="#top" class="brand js-target-scroll">
-          go<span class="text-primary">.</span>arch
+          <!-- go<span class="text-primary">.</span>arch -->
+          <img src="/img/logo/logo.png"  width="150" height="50">
         </a>
         <ul class="nav navbar-desctop-menu">
           <li class="active">
