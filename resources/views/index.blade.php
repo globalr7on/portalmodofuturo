@@ -367,18 +367,18 @@
                 </div>
               </div>
               <div class="col-base col-about-spec col-sm-6 col-md-4">
-                <h3 class="col-about-title">our<br> specialization<span class="text-primary">:</span></h3>
+                <h3 class="col-about-title">nosso<br>especialização<span class="text-primary">:</span></h3>
                 <div class="service-item">
                   <img alt="" src="img/img-icon/icon-architecture.png">
-                  <h4>Architecture</h4>
+                  <h4>Construção de marca</h4>
                 </div>
                 <div class="service-item">
                   <img alt="" src="img/img-icon/icon-interiors.png">
-                  <h4>Interiors</h4>
+                  <h4>Tecnologia para negócios</h4>
                 </div>
                 <div class="service-item">
                   <img alt="" src="img/img-icon/icon-planing.png">
-                  <h4>Planing</h4>
+                  <h4>Conhecimento para líderes</h4>
                 </div>
               </div>
               <div class="clearfix visible-sm"></div>
