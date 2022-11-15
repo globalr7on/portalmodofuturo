@@ -545,6 +545,27 @@
                   <p>For each project we establish relationships with partners who we know will help us create added value for your project. As well as bringing together the public and private sectors.</p>
                 </div>
               </div>
+              <div class="col-base col-service col-sm-6 col-md-4 wow fadeInUp">
+                <div class="service-item">
+                  <img alt="" src="img/img-icon/icon-drawing.png">
+                  <h4>Development</h4>
+                  <p>For each project we establish relationships with partners who we know will help us create added value for your project. As well as bringing together the public and private sectors.</p>
+                </div>
+              </div>
+              <div class="col-base col-service col-sm-6 col-md-4 wow fadeInUp">
+                <div class="service-item">
+                  <img alt="" src="img/img-icon/icon-drawing.png">
+                  <h4>Development</h4>
+                  <p>For each project we establish relationships with partners who we know will help us create added value for your project. As well as bringing together the public and private sectors.</p>
+                </div>
+              </div>
+              <div class="col-base col-service col-sm-6 col-md-4 wow fadeInUp">
+                <div class="service-item">
+                  <img alt="" src="img/img-icon/icon-drawing.png">
+                  <h4>Development</h4>
+                  <p>For each project we establish relationships with partners who we know will help us create added value for your project. As well as bringing together the public and private sectors.</p>
+                </div>
+              </div>
               <div class="col-base col-service col-sm-6 col-md-4 wow fadeInUp" data-wow-delay="0.3s">
                 <div class="service-item">
                   <img alt="" src="img/img-icon/icon-house-plans.png">
