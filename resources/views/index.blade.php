@@ -219,7 +219,7 @@
             <!-- Slide 2 -->
             <li data-transition="slotzoom-horizontal" data-slotamount="7" data-easein="Power3.easeInOut" data-easeout="Power3.easeInOut" data-masterspeed="1000">
               <!-- Main image -->
-              <img src="img/slider/slide2.jpg"  alt=""  data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg">
+              <img src="img/slider/slide2.png"  alt=""  data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg">
 
               <!-- Layer 1 -->
               <div class="slide-title tp-caption tp-resizeme" 
@@ -239,10 +239,10 @@
                 data-splitin="chars" 
                 data-splitout="none" 
                 data-responsive_offset="on"
-                data-elementdelay="0.05">Exhibition center in boston
+                data-elementdelay="0.05">TECNOLOGIA PARA NEGÓCIOS
               </div>
 
-              <!-- Layer 2 -->
+              <!-- Layer 2
               <div class="slide-subtitle tp-caption tp-resizeme"
                 data-x="['right','right','right','right']" data-hoffset="['0']" 
                 data-y="['middle','middle','middle','middle']" data-voffset="['75','105']"
@@ -258,7 +258,7 @@
                 data-splitout="none">Concert Hall is the architecture of a new generation, a building<br> 
                 that exists not only in the dimension of space,<br> 
                 but also in the dimension of time and communication. 
-              </div>
+              </div> -->
 
               <!-- Layer 3 -->
               <div class="tp-caption"
@@ -284,7 +284,7 @@
             <!-- Slide 3 -->
             <li data-transition="slotzoom-horizontal" data-slotamount="7" data-easein="Power3.easeInOut" data-easeout="Power3.easeInOut" data-masterspeed="1000">
               <!-- Main image-->
-              <img src="img/slider/slide3.jpg"  alt=""  data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg">
+              <img src="img/slider/slide3.png"  alt=""  data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg">
 
               <!-- Layer 1 -->
               <div class="slide-title tp-caption tp-resizeme" 
@@ -304,7 +304,7 @@
                 data-splitin="chars" 
                 data-splitout="none" 
                 data-responsive_offset="on"
-                data-elementdelay="0.05">Modern hotel in london
+                data-elementdelay="0.05">CONHECIMENTO PARA LÍDERES
               </div>
 
               <!-- Layer 2 -->
