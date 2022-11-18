@@ -562,7 +562,7 @@
               </div>
               <div class="col-base col-service col-sm-6 col-md-4 wow fadeInUp" data-wow-delay="0.6s">
                 <div class="service-item">
-                  <img alt="" style="max-width:24%" src="img/img-icon/4 .png">
+                  <img alt="" style="max-width:24%" src="img/img-icon/4.png">
                   <h4>SOFTWARES & APPS</h4>
                   <p>Oferecemos soluções personalizadas para todo tipo de demanda de sistemas de gerenciamento para o seu negócio entregar a melhor experiência.</p>
                 </div>
