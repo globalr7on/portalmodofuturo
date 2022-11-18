@@ -361,9 +361,9 @@
           <div class="section-content">
             <div class="row-base row">
               <div class="col-base col-sm-6 col-md-4">
-                <h3 class="col-about-title">Tecnologia criativa para negôcios do futuro<span class="text-primary">.</span></h3>
+                <h3 class="col-about-title">A plataforma de tecnologia criativa para negócios do futuro.<span class="text-primary">.</span></h3>
                 <div class="col-about-info">
-                  <p>Somos uma plataforma de transformação que executa projetos de negócios com criatividade e tecnologia, focando em soluções de negócios para a nova realidade conectada. Acreditamos que a metodologia de design aplicada aos negócios de forma criativa, transforma ideias em soluções de valor para o mercado.</p>
+                  <p>Somos uma plataforma de evolução focada em executar projetos de negócios. Com o foco na construção de marca, alinhamos tecnologia com criatividade trazendo soluções pontuais para a nova realidade conectada do mercado. Acreditamos nos métodos de ensino para elevar o nível do conhecimento prático de cada negócio seja no processo, equipe ou liderança. Bem-Vindo ao Modo Futuro!</p>
                 </div>
               </div>
               <div class="col-base col-about-spec col-sm-6 col-md-4">
@@ -540,43 +540,44 @@
             <div class="row-services row-base row">
               <div class="col-base col-service col-sm-6 col-md-4 wow fadeInUp">
                 <div class="service-item">
-                  <img alt="" src="img/img-icon/icon-drawing.png">
-                  <h4>Development</h4>
-                  <p>For each project we establish relationships with partners who we know will help us create added value for your project. As well as bringing together the public and private sectors.</p>
+                  <img alt="" style="max-width:24%" src="img/img-icon/1.png">
+                  <h4>EXECUÇÃO DE PROJETOS</h4>
+                  <p>Vamos construir o conceito da sua marca, fundamentando os elementos principais do negócio: Estratégia, Logo, Identidade, Produtos e Serviços, Marketing, Web com mapa de implementação.</p>
                 </div>
               </div>
               <div class="col-base col-service col-sm-6 col-md-4 wow fadeInUp">
                 <div class="service-item">
-                  <img alt="" src="img/img-icon/icon-drawing.png">
-                  <h4>Development</h4>
-                  <p>For each project we establish relationships with partners who we know will help us create added value for your project. As well as bringing together the public and private sectors.</p>
+                  <img alt="" style="max-width:24%" src="img/img-icon/2.png">
+                  <h4>CONSULTORIA DE BRANDING</h4>
+                  <p>A consultoria Design de Negócios é para quem quer tirar ideia do papel ou elevar para o próximo nível seu negócio. Estruturando os pilares do negócio focando em construir uma Marca de valor. Podendo executar com você o processo de implementação.</p>
                 </div>
               </div>
               <div class="col-base col-service col-sm-6 col-md-4 wow fadeInUp">
                 <div class="service-item">
-                  <img alt="" src="img/img-icon/icon-drawing.png">
-                  <h4>Development</h4>
-                  <p>For each project we establish relationships with partners who we know will help us create added value for your project. As well as bringing together the public and private sectors.</p>
+                  <img alt="" style="max-width:24%" src="img/img-icon/3.png">
+                  <h4>DESIGN & MARKETING DIGITAL</h4>
+                  <p>De criação de peças gráficas a estratégia de funil de marketing digital para produtos físicos e digitais, nós atendemos as demandas</p>
+                  <p>Oferecemos soluções criativas para design de materiais e estratégia de marketing digital</p>
                 </div>
               </div>
               <div class="col-base col-service col-sm-6 col-md-4 wow fadeInUp">
                 <div class="service-item">
-                  <img alt="" src="img/img-icon/icon-drawing.png">
-                  <h4>Development</h4>
-                  <p>For each project we establish relationships with partners who we know will help us create added value for your project. As well as bringing together the public and private sectors.</p>
+                  <img alt="" style="max-width:24%" src="img/img-icon/4.png">
+                  <h4>WEB & E-COMMERCE</h4>
+                  <p>Criamos seu site ou páginas de vendas, desenvolvemos seu e-commerce dinâmico com funcionalidades práticas, sendo responsivo para mobile.</p>
                 </div>
               </div>
               <div class="col-base col-service col-sm-6 col-md-4 wow fadeInUp" data-wow-delay="0.3s">
                 <div class="service-item">
-                  <img alt="" src="img/img-icon/icon-house-plans.png">
-                  <h4>House plans</h4>
-                  <p>For each project we establish relationships with partners who we know will help us create added value for your project. As well as bringing together the public and private sectors.</p>
+                  <img alt="" style="max-width:24%" src="img/img-icon/5.png">
+                  <h4>CURSOS & TREINAMENTOS</h4>
+                  <p>Aplicamos o conhecimento prático no desenvolvimento e aplicação de cursos e treinamentos para líderes, equipes e público-alvo do cliente.</p>
                 </div>
               </div>
               <div class="clearfix visible-sm"></div>
               <div class="col-base col-service col-sm-6 col-md-4 wow fadeInUp" data-wow-delay="0.6s">
                 <div class="service-item">
-                  <img alt="" src="img/img-icon/icon-house-key.png">
+                  <img alt="" style="max-width:24%" src="img/img-icon/6 .png">
                   <h4>Finishing works</h4>
                   <p>For each project we establish relationships with partners who we know will help us create added value for your project. As well as bringing together the public and private sectors.</p>
                 </div>
