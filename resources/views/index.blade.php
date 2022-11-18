@@ -66,14 +66,14 @@
     <div class="vertical-panel"></div>
     <div class="vertical-panel-content">
       <div class="vertical-panel-info">
-          <div class="vertical-panel-title">DESING DE NEGÔCIOS</div>
+          <div class="vertical-panel-title">DESIGN DE NEGÔCIOS</div>
           <div class="line"></div>
         </div>
       <ul class="social-list">
-        <li><a href="" class="fa fa-instagram"></a></li>
-        <li><a href="" class="fa fa-twitter"></a></li>
-        <li><a href="" class="fa fa-behance"></a></li>
-        <li><a href="" class="fa fa-facebook"></a></li>
+        <li><a href="https://www.instagram.com/modofuturo_/" class="fa fa-instagram"></a></li>
+        <li><a href="https://www.linkedin.com/company/futuromidias/" class="fa fa-linkedin"></a></li>
+        <li><a href="https://www.behance.net/modofuturo?tracking_source=search_users|modo%20futuro" class="fa fa-behance"></a></li>
+        <li><a href="https://www.facebook.com/ModoFuturo" class="fa fa-facebook"></a></li>
         </ul>  
     </div> 
 
@@ -92,13 +92,13 @@
             <a href="#about">Sobre</a>
           </li>
           <li>
-            <a href="#projects">Projectos</a>
+            <a href="#projects">Projetos</a>
           </li>  
           <li>
-            <a href="#services">Services</a>
+            <a href="#services">Serviços</a>
           </li>
           <li>
-            <a href="#contacts">Contacts</a>
+            <a href="#contacts">Contato</a>
           </li>
         </ul>
       </div>
@@ -127,13 +127,13 @@
             <a href="#about">Sobre</a>
           </li>
           <li>
-            <a href="#projects">Projectos</a>
+            <a href="#projects">Projetos</a>
           </li>  
           <li>
-            <a href="#clients">Clients</a>
+            <a href="#clients">Clientes</a>
           </li>
           <li>
-            <a href="#contacts">Contacts</a>
+            <a href="#contacts">Contato</a>
           </li>
         </ul>
       </div>
@@ -369,21 +369,21 @@
               <div class="col-base col-about-spec col-sm-6 col-md-4">
                 <h3 class="col-about-title">NOSSA<br>especialização<span class="text-primary">:</span></h3>
                 <div class="service-item">
-                  <img alt="" src="img/img-icon/icon-architecture.png">
+                  <img alt="" style="max-width:24%" src="img/img-icon/constucaomarca.png">
                   <h4>Construção de marca</h4>
                 </div>
                 <div class="service-item">
-                  <img alt="" src="img/img-icon/icon-interiors.png">
+                  <img alt="" style="max-width:24%"  src="img/img-icon/tecnolgianegocio.png">
                   <h4>Tecnologia para negócios</h4>
                 </div>
                 <div class="service-item">
-                  <img alt="" src="img/img-icon/icon-planing.png">
+                  <img alt="" style="max-width:24%"  src="img/img-icon/conhecimento.png">
                   <h4>Conhecimento para líderes</h4>
                 </div>
               </div>
               <div class="clearfix visible-sm"></div>
               <div class="col-base col-about-img col-sm-6 col-md-4">
-                <img alt="" class="img-responsive" src="img/380x370.jpg">
+                <img alt="" class="img-responsive" src="img/banner-quadro.png">
               </div>
             </div>
           </div>
