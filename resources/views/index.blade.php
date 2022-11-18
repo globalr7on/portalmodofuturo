@@ -533,7 +533,7 @@
       <section id="services" class="services section">
         <div class="container">
           <header class="section-header">
-            <h2 class="section-title"><span class="text-primary">Our</span> Services</h2>
+            <h2 class="section-title"><span class="text-primary">Nossos</span> Serviçõs</h2>
             <strong class="fade-title-right">services</strong>
           </header>
           <div class="section-content">
@@ -560,28 +560,29 @@
                   <p>Oferecemos soluções criativas para design de materiais e estratégia de marketing digital</p>
                 </div>
               </div>
+              <div class="col-base col-service col-sm-6 col-md-4 wow fadeInUp" data-wow-delay="0.6s">
+                <div class="service-item">
+                  <img alt="" style="max-width:24%" src="img/img-icon/4 .png">
+                  <h4>SOFTWARES & APPS</h4>
+                  <p>Oferecemos soluções personalizadas para todo tipo de demanda de sistemas de gerenciamento para o seu negócio entregar a melhor experiência.</p>
+                </div>
+              </div>
               <div class="col-base col-service col-sm-6 col-md-4 wow fadeInUp">
                 <div class="service-item">
-                  <img alt="" style="max-width:24%" src="img/img-icon/4.png">
+                  <img alt="" style="max-width:24%" src="img/img-icon/5.png">
                   <h4>WEB & E-COMMERCE</h4>
                   <p>Criamos seu site ou páginas de vendas, desenvolvemos seu e-commerce dinâmico com funcionalidades práticas, sendo responsivo para mobile.</p>
                 </div>
               </div>
               <div class="col-base col-service col-sm-6 col-md-4 wow fadeInUp" data-wow-delay="0.3s">
                 <div class="service-item">
-                  <img alt="" style="max-width:24%" src="img/img-icon/5.png">
+                  <img alt="" style="max-width:24%" src="img/img-icon/6.png">
                   <h4>CURSOS & TREINAMENTOS</h4>
                   <p>Aplicamos o conhecimento prático no desenvolvimento e aplicação de cursos e treinamentos para líderes, equipes e público-alvo do cliente.</p>
                 </div>
               </div>
               <div class="clearfix visible-sm"></div>
-              <div class="col-base col-service col-sm-6 col-md-4 wow fadeInUp" data-wow-delay="0.6s">
-                <div class="service-item">
-                  <img alt="" style="max-width:24%" src="img/img-icon/6 .png">
-                  <h4>Finishing works</h4>
-                  <p>For each project we establish relationships with partners who we know will help us create added value for your project. As well as bringing together the public and private sectors.</p>
-                </div>
-              </div>
+              
             </div>
           </div>
         </div>
