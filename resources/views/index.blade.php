@@ -361,24 +361,24 @@
           <div class="section-content">
             <div class="row-base row">
               <div class="col-base col-sm-6 col-md-4">
-                <h3 class="col-about-title">A plataforma de tecnologia criativa para negócios do futuro.<span class="text-primary">.</span></h3>
+                <h3 class="col-about-title">CRIATIVIDADE E TECNOLOGIA<span class="text-primary">.</span></h3>
                 <div class="col-about-info">
-                  <p>Somos uma plataforma de evolução focada em executar projetos de negócios. Com o foco na construção de marca, alinhamos tecnologia com criatividade trazendo soluções pontuais para a nova realidade conectada do mercado. Acreditamos nos métodos de ensino para elevar o nível do conhecimento prático de cada negócio seja no processo, equipe ou liderança. Bem-Vindo ao Modo Futuro!</p>
+                  <p>Somos uma plataforma de evolução focada em executar projetos de negócios. Com o foco em Design de Negócios, atuamos na construção de marca, alinhamos tecnologia com criatividade propondo soluções pontuais para a nova realidade conectada do mercado. Acreditamos nos métodos de design aplicado aos negócios e ao ensino para elevar o conhecimento prático dos líderes e suas equipes. Bem-vindo ao Modo Futuro!</p>
                 </div>
               </div>
               <div class="col-base col-about-spec col-sm-6 col-md-4">
-                <h3 class="col-about-title">NOSSA<br>especialização<span class="text-primary">:</span></h3>
+                <h3 class="col-about-title">NOSSA<br>ESPECIALIDADE<span class="text-primary">:</span></h3>
                 <div class="service-item">
                   <img alt="" style="max-width:24%" src="img/img-icon/constucaomarca.png">
-                  <h4>Construção de marca</h4>
+                  <h4>DESIGN DE NEGÓCIOS</h4>
                 </div>
                 <div class="service-item">
                   <img alt="" style="max-width:24%"  src="img/img-icon/tecnolgianegocio.png">
-                  <h4>Tecnologia para negócios</h4>
+                  <h4>TECNOLOGIA PARA NEGÓCIOS</h4>
                 </div>
                 <div class="service-item">
                   <img alt="" style="max-width:24%"  src="img/img-icon/conhecimento.png">
-                  <h4>Conhecimento para líderes</h4>
+                  <h4>CONHECIMENTO PARA LÍDERES</h4>
                 </div>
               </div>
               <div class="clearfix visible-sm"></div>
@@ -541,63 +541,105 @@
               <div class="col-base col-service col-sm-6 col-md-4 wow fadeInUp">
                 <div class="service-item">
                   <img alt="" style="max-width:24%" src="img/img-icon/1.png">
-                  <h4>EXECUÇÃO DE PROJETOS</h4>
-                  <p>Vamos construir o conceito da sua marca, fundamentando os elementos principais do negócio: Estratégia, Logo, Identidade, Produtos e Serviços, Marketing, Web com mapa de implementação.</p>
+                  <h4>Design de Negócios</h4>
+                  <li>Consultoria & Execução de projetos</li>
+                  <li>Planejamento estratégico</li>
+                  <li>Esteira de produtos e serviços</li>
+                  <li>Mapa de implementação</li>
                 </div>
               </div>
               <div class="col-base col-service col-sm-6 col-md-4 wow fadeInUp">
                 <div class="service-item">
                   <img alt="" style="max-width:24%" src="img/img-icon/2.png">
-                  <h4>CONSULTORIA DE BRANDING</h4>
-                  <p>A consultoria Design de Negócios é para quem quer tirar ideia do papel ou elevar para o próximo nível seu negócio. Estruturando os pilares do negócio focando em construir uma Marca de valor. Podendo executar com você o processo de implementação.</p>
+                  <h4>Construção de Marca</h4>
+                  <li>Nome & Logo</li>
+                  <li>Estratégia de marca</li>
+                  <li>Identidade visual</li>
+                  <li>Materiais</li>
                 </div>
               </div>
               <div class="col-base col-service col-sm-6 col-md-4 wow fadeInUp">
                 <div class="service-item">
                   <img alt="" style="max-width:24%" src="img/img-icon/3.png">
-                  <h4>DESIGN & MARKETING DIGITAL</h4>
-                  <p>De criação de peças gráficas a estratégia de funil de marketing digital para produtos físicos e digitais, nós atendemos as demandas</p>
-                  <p>Oferecemos soluções criativas para design de materiais e estratégia de marketing digital</p>
+                  <h4>Design</h4>
+                  <li>Design de Materiais</li> 
+                  <li>Design de Produtos digitais</li>
+                  <li>Design de Serviços</li>
+                  <li>Ui/UX</li>
                 </div>
               </div>
-              <div class="col-base col-service col-sm-6 col-md-4 wow fadeInUp" data-wow-delay="0.6s">
+              </div>
+              
+              <div class="col-base col-service col-sm-6 col-md-4 wow fadeInUp">
                 <div class="service-item">
                   <img alt="" style="max-width:24%" src="img/img-icon/4.png">
-                  <h4>SOFTWARES & APPS</h4>
-                  <p>Oferecemos soluções personalizadas para todo tipo de demanda de sistemas de gerenciamento para o seu negócio entregar a melhor experiência.</p>
+                  <h4>Mídias</h4>
+                  <li>Fotografia</li>  
+                  <li>Produção de vídeo</li> 
+                  <li>Roteiro</li> 
+                  <li>Criação</li> 
                 </div>
               </div>
               <div class="col-base col-service col-sm-6 col-md-4 wow fadeInUp">
                 <div class="service-item">
                   <img alt="" style="max-width:24%" src="img/img-icon/5.png">
-                  <h4>WEB & E-COMMERCE</h4>
-                  <p>Criamos seu site ou páginas de vendas, desenvolvemos seu e-commerce dinâmico com funcionalidades práticas, sendo responsivo para mobile.</p>
+                  <h4>Marketing Digital</h4>
+                  <li>Estratégia de campanhas</li>
+                  <li>Infoprodutos</li>
+                  <li>Gestão de tráfego</li>
+                  <li>Social Media</li> 
                 </div>
               </div>
               <div class="col-base col-service col-sm-6 col-md-4 wow fadeInUp" data-wow-delay="0.3s">
                 <div class="service-item">
                   <img alt="" style="max-width:24%" src="img/img-icon/6.png">
-                  <h4>CURSOS & TREINAMENTOS</h4>
-                  <p>Aplicamos o conhecimento prático no desenvolvimento e aplicação de cursos e treinamentos para líderes, equipes e público-alvo do cliente.</p>
+                  <h4>Web & E-commerce</h4>
+                  <li>Site</li>
+                  <li>Landing Page</li>
+                  <li>E-commerce</li>
                 </div>
               </div>
+              <div class="col-base col-service col-sm-6 col-md-4 wow fadeInUp">
+                <div class="service-item">
+                  <img alt="" style="max-width:24%" src="img/img-icon/5.png">
+                  <h4>Marketing Digital</h4>
+                  <li>Estratégia de campanhas</li>
+                  <li>Infoprodutos</li>
+                  <li>Gestão de tráfego</li>
+                  <li>Social Media</li> 
+                </div>
+              </div>
+              Softwares & APPs
+Plataformas de gerenciamento
+Área de membros
+Getway de pagamento
+Aplicativos
+              <div class="col-base col-service col-sm-6 col-md-4 wow fadeInUp">
+                <div class="service-item">
+                  <img alt="" style="max-width:24%" src="img/img-icon/5.png">
+                  <h4>Marketing Digital</h4>
+                  <li>Estratégia de campanhas</li>
+                  <li>Infoprodutos</li>
+                  <li>Gestão de tráfego</li>
+                  <li>Social Media</li> 
+                </div>
+              </div>
+              </div>
+            
+
+Cursos & Treinamentos
+Soft/Hard Skills
+Novos Talentos
+Liderança e Gestão
+Habilidades de negócios
+
               <div class="clearfix visible-sm"></div>
-              
             </div>
           </div>
         </div>
       </section>
 
-      <!-- Experience -->
-      <section class="experience section">
-        <div class="container">
-          <div class="text-parallax" data-stellar-background-ratio="0.85" style="background-image: url('img/bg/text-1.jpg');">
-            <div class="text-parallax-content">12</div>
-          </div>
-          <h4 class="experience-info wow fadeInRight"><span class="text-primary">Years of successful work</span><br> in the market</h4>
-        </div>
-      </section>
-
+     
       <!-- Clients  -->
       <section id="clients" class="clients section">
         <div class="container">
@@ -608,19 +650,19 @@
           <div class="section-content">
             <ul class="clients-list">
               <li class="client">
-                <a href="#"><img alt="" src="img/clients/1.png"></a>
+                <a href="#"><img alt="" src="img/clients/1.png" width='171' height='75'></a>
               </li>
               <li class="client">
-                <a href="#"><img alt="" src="img/clients/2.png"></a>
+                <a href="#"><img alt="" src="img/clients/2.png" width='171' height='75'></a>
               </li>
               <li class="client">
-                <a href="#"><img alt="" src="img/clients/3.png"></a>
+                <a href="#"><img alt="" src="img/clients/3.png" width='171' height='75'></a>
               </li>
               <li class="client">
-                <a href="#"><img alt="" src="img/clients/4.png"></a>
+                <a href="#"><img alt="" src="img/clients/4.png" width='171' height='75'></a>
               </li>
               <li class="client">
-                <a href="#"><img alt="" src="img/clients/5.png"></a>
+                <a href="#"><img alt="" src="img/clients/5.png" width='171' height='75'></a>
               </li>
 
             </ul>
