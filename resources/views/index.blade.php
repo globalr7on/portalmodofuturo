@@ -174,7 +174,7 @@
                 data-splitin="chars" 
                 data-splitout="none" 
                 data-responsive_offset="on" 
-                data-elementdelay="0.05">Construção de Marca
+                data-elementdelay="0.05">DESIGN DE NEGÓCIO
               </div>
 
               <!-- Layer 2 -->
