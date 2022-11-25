@@ -599,40 +599,6 @@
                   <li>E-commerce</li>
                 </div>
               </div>
-              <div class="col-base col-service col-sm-6 col-md-4 wow fadeInUp">
-                <div class="service-item">
-                  <img alt="" style="max-width:24%" src="img/img-icon/5.png">
-                  <h4>Marketing Digital</h4>
-                  <li>Estratégia de campanhas</li>
-                  <li>Infoprodutos</li>
-                  <li>Gestão de tráfego</li>
-                  <li>Social Media</li> 
-                </div>
-              </div>
-              Softwares & APPs
-Plataformas de gerenciamento
-Área de membros
-Getway de pagamento
-Aplicativos
-              <div class="col-base col-service col-sm-6 col-md-4 wow fadeInUp">
-                <div class="service-item">
-                  <img alt="" style="max-width:24%" src="img/img-icon/5.png">
-                  <h4>Marketing Digital</h4>
-                  <li>Estratégia de campanhas</li>
-                  <li>Infoprodutos</li>
-                  <li>Gestão de tráfego</li>
-                  <li>Social Media</li> 
-                </div>
-              </div>
-              </div>
-            
-
-Cursos & Treinamentos
-Soft/Hard Skills
-Novos Talentos
-Liderança e Gestão
-Habilidades de negócios
-
               <div class="clearfix visible-sm"></div>
             </div>
           </div>
