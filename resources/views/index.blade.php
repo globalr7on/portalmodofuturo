@@ -801,9 +801,9 @@
         <div class="container">
           <div class="row-base row">
             <div class="col-base text-left-md col-md-4">
-              <a href="#" class="brand">
+              <!-- <a href="#" class="brand">
                 go<span class="text-primary">.</span>arch
-              </a>
+              </a> -->
             </div>
             <div class="text-center-md col-base col-md-4">
               <a href="https://themeforest.net/user/murren20" class="author-link">
