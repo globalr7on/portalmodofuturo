@@ -174,7 +174,7 @@
                 data-splitin="chars" 
                 data-splitout="none" 
                 data-responsive_offset="on" 
-                data-elementdelay="0.05">DESIGN DE NEGÓCIO
+                data-elementdelay="0.05">DESIGN DE NEGÓCIOS
               </div>
 
               <!-- Layer 2 -->
@@ -212,7 +212,7 @@
                 data-start="1500" 
                 data-splitin="none" 
                 data-splitout="none" 
-                data-responsive_offset="on"><a href="#about" class="btn js-target-scroll">Look more <i class="icon-next"></i></a>
+                data-responsive_offset="on"><a href="#about" class="btn js-target-scroll">SAIBA MAIS <i class="icon-next"></i></a>
               </div>
             </li>
 
@@ -239,7 +239,7 @@
                 data-splitin="chars" 
                 data-splitout="none" 
                 data-responsive_offset="on"
-                data-elementdelay="0.05">TECNOLOGIA PARA NEGÓCIOS
+                data-elementdelay="0.05">TECNOLOGIA
               </div>
 
               <!-- Layer 2
@@ -277,7 +277,7 @@
                 data-start="1500" 
                 data-splitin="none" 
                 data-splitout="none" 
-                data-responsive_offset="on"><a href="#about" class="btn js-target-scroll">Look more <i class="icon-next"></i></a>
+                data-responsive_offset="on"><a href="#about" class="btn js-target-scroll">SAIBA MAIS <i class="icon-next"></i></a>
               </div>
             </li>
 
@@ -304,11 +304,11 @@
                 data-splitin="chars" 
                 data-splitout="none" 
                 data-responsive_offset="on"
-                data-elementdelay="0.05">CONHECIMENTO PARA LÍDERES
+                data-elementdelay="0.05">CONHECIMENTO
               </div>
 
               <!-- Layer 2 -->
-              <div class="slide-subtitle tp-caption tp-resizeme"
+              <!-- <div class="slide-subtitle tp-caption tp-resizeme"
                 data-x="['right','right','right','right']" data-hoffset="['0']" 
                 data-y="['middle','middle','middle','middle']" data-voffset="['75','105']"
                 data-fontsize="['18','19']" 
@@ -323,7 +323,7 @@
                 data-splitout="none">Concert Hall is the architecture of a new generation, a building<br> 
                 that exists not only in the dimension of space,<br> 
                 but also in the dimension of time and communication. 
-              </div>
+              </div> -->
 
               <!-- Layer 3 -->
               <div class="tp-caption"
@@ -342,7 +342,7 @@
                 data-start="1500" 
                 data-splitin="none" 
                 data-splitout="none" 
-                data-responsive_offset="on"><a href="#about" class="btn js-target-scroll">Look more <i class="icon-next"></i></a>
+                data-responsive_offset="on"><a href="#about" class="btn js-target-scroll">SAIBA MAIS <i class="icon-next"></i></a>
               </div>
             </li>
           </ul>
@@ -393,20 +393,20 @@
       <!-- Projects -->
       <section id="projects" class="projects section">
         <div class="container">
-          <h2 class="section-title">Our <span class="text-primary">projects</span></h2>
+          <h2 class="section-title">NOSSOS  <span class="text-primary">PROJETOS</span></h2>
         </div>
         <div class="section-content">
           <div class="projects-carousel js-projects-carousel js-projects-gallery">
             <div class="project project-light">
-              <a href="img/projects/1-480x880.jpg" title="project 1">
+              <a href="img/projects/01.png" title="Essencial Jus">
                 <figure>
-                  <img alt="" src="img/projects/1-480x880.jpg">
+                  <img alt="" src="img/projects/01.png">
                   <figcaption>
                     <h3 class="project-title">
-                      Residential care<br> project in Paris
+                      ESSENCIAL <br> JUS
                     </h3>
                     <h4 class="project-category">
-                      Architecture
+                      DESIGN DE NEGÓCIOS
                     </h4>
                     <div class="project-zoom"></div>
                   </figcaption>
@@ -414,15 +414,15 @@
               </a>
             </div>
             <div class="project project-light">
-              <a href="img/projects/2-480x880.jpg" title="project 2">
+              <a href="img/projects/02.png" title="GMS Negócios">
                 <figure>
-                  <img alt="" src="img/projects/2-480x880.jpg">
+                  <img alt="" src="img/projects/02.png">
                   <figcaption>
                     <h3 class="project-title">
-                      Concert hall<br> in New york
+                      GMS <br> NEGÓCIOS
                     </h3>
                     <h4 class="project-category">
-                      Architecture
+                      BRANDING
                     </h4>
                     <div class="project-zoom"></div>
                   </figcaption>
@@ -430,15 +430,15 @@
               </a>
             </div>
             <div class="project">
-              <a href="img/projects/3-480x880.jpg" title="project 3">
+              <a href="img/projects/03.png" title="ALHEIRO">
                 <figure>
-                  <img alt="" src="img/projects/3-480x880.jpg">
+                  <img alt="" src="img/projects/03.png">
                   <figcaption>
                     <h3 class="project-title">
-                      Modern hotel<br>in London
+                      ALHEIRO
                     </h3>
                     <h4 class="project-category">
-                      Architecture
+                      MARKETING
                     </h4>
                     <div class="project-zoom"></div>
                   </figcaption>
@@ -446,15 +446,15 @@
               </a>
             </div>
             <div class="project">
-              <a href="img/projects/4-480x880.jpg" title="project 4">
+              <a href="img/projects/04.png" title="ART BUS GALERIA">
                 <figure>
-                  <img alt="" src="img/projects/4-480x880.jpg">
+                  <img alt="" src="img/projects/04.png">
                   <figcaption>
                     <h3 class="project-title">
-                      Modern hotel<br>in London
+                      ART BUS <br>GALERIA
                     </h3>
                     <h4 class="project-category">
-                      Architecture
+                      DESIGN DE NEGÓCIOS
                     </h4>
                     <div class="project-zoom"></div>
                   </figcaption>
@@ -462,15 +462,15 @@
               </a>
             </div>
             <div class="project">
-              <a href="img/projects/5-480x880.jpg" title="project 5">
+              <a href="img/projects/05.png" title="HB ELECTRIC COMPANY">
                 <figure>
-                  <img alt="" src="img/projects/5-480x880.jpg">
+                  <img alt="" src="img/projects/05.png">
                   <figcaption>
                     <h3 class="project-title">
-                      Residential care<br> project in Paris
+                      HB ELECTRIC <br> COMPANY
                     </h3>
                     <h4 class="project-category">
-                      Architecture
+                     MARKETING
                     </h4>
                     <div class="project-zoom"></div>
                   </figcaption>
@@ -478,15 +478,15 @@
               </a>
             </div>
             <div class="project">
-              <a href="img/projects/6-480x880.jpg" title="project 6">
+              <a href="img/projects/06.png" title="CASTORE">
                 <figure>
-                  <img alt="" src="img/projects/6-480x880.jpg">
+                  <img alt="" src="img/projects/06.png">
                   <figcaption>
                     <h3 class="project-title">
-                      Residential care<br> project in Paris
+                      CASTORE 
                     </h3>
                     <h4 class="project-category">
-                      Architecture
+                      DESIGN DE NEGÓCIOS
                     </h4>
                     <div class="project-zoom"></div>
                   </figcaption>
@@ -494,15 +494,15 @@
               </a>
             </div>
             <div class="project">
-              <a href="img/projects/7-480x880.jpg" title="project 7">
+              <a href="img/projects/07.png" title="MS UPTECH">
                 <figure>
-                  <img alt="" src="img/projects/7-480x880.jpg">
+                  <img alt="" src="img/projects/07.png">
                   <figcaption>
                     <h3 class="project-title">
-                      Residential care<br> project in Paris
+                      MS<br> UPTECH 
                     </h3>
                     <h4 class="project-category">
-                      Architecture
+                      BRANDING
                     </h4>
                     <div class="project-zoom"></div>
                   </figcaption>
@@ -510,15 +510,15 @@
               </a>
             </div>
             <div class="project">
-              <a href="img/projects/8-480x880.jpg" title="project 8">
+              <a href="img/projects/08.png" title="CHAMADO JOVEM">
                 <figure>
-                  <img alt="" src="img/projects/8-480x880.jpg">
+                  <img alt="" src="img/projects/08.png">
                   <figcaption>
                     <h3 class="project-title">
-                      Residential care<br> project in Paris
+                      CHAMADO <br> JOVEM
                     </h3>
                     <h4 class="project-category">
-                      Architecture
+                      BRANDING
                     </h4>
                     <div class="project-zoom"></div>
                   </figcaption>
