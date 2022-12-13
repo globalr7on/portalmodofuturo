@@ -533,7 +533,7 @@
       <section id="services" class="services section">
         <div class="container">
           <header class="section-header">
-            <h2 class="section-title"><span class="text-primary">Nossos</span> Serviçõs</h2>
+            <h2 class="section-title"><span class="text-primary">Nossos</span> Serviços</h2>
             <strong class="fade-title-right">services</strong>
           </header>
           <div class="section-content">
@@ -610,8 +610,8 @@
       <section id="clients" class="clients section">
         <div class="container">
           <header class="section-header">
-            <h2 class="section-title">Our <span class="text-primary">clients</span></h2>
-            <strong class="fade-title-left">clients</strong>
+            <h2 class="section-title">Nossos <span class="text-primary">clientes</span></h2>
+            <strong class="fade-title-left">clientes</strong>
           </header>
           <div class="section-content">
             <ul class="clients-list">
@@ -634,7 +634,7 @@
             </ul>
           </div>
           <div class="section-content">
-            <a href="#" class="btn btn-shadow-2">Work together <i class="icon-next"></i></a>
+            <a href="#" class="btn btn-shadow-2">Trabalhar juntos<i class="icon-next"></i></a>
           </div>
         </div>
       </section>
@@ -643,7 +643,7 @@
       <section id="objects" class="objects section">
         <div class="container">
           <header class="section-header">
-            <h2 class="section-title">We are <span class="text-primary">worldwide</span></h2>
+            <h2 class="section-title">ESTAMOS EM<span class="text-primary"> TODO O MUNDO</span></h2>
           </header>
           <div class="section-content">
             <div class="objects">
