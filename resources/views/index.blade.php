@@ -650,40 +650,40 @@
               <img alt="" class="img-responsive" src="img/map.png">
 
               <!-- Objects -->
-              <div class="object-label" style="left:12.6%; top:42%;">
+              <!-- <div class="object-label" style="left:12.6%; top:42%;">
                 <div class="object-info">
-                  <h3 class="object-title">New York</h3>
+                  <h3 class="object-title">1</h3>
                   <div class="object-content">
                     +0 595-510-1352<br>
                     flatley.don@weissnat.me<br>
                     713 Dibbert Bridge
                   </div>
                 </div>
-              </div>
+              </div> -->
 
-              <div class="object-label" style="left: 25.7%; top: 39.1%;">
+              <!-- <div class="object-label" style="left: 25.7%; top: 39.1%;">
                 <div class="object-info in">
-                  <h3 class="object-title">New York</h3>
+                  <h3 class="object-title">2</h3>
                   <div class="object-content">
                     +0 595-510-1352<br>
                     flatley.don@weissnat.me<br>
                     713 Dibbert Bridge
                   </div>
                 </div>
-              </div>
+              </div> -->
 
-              <div class="object-label" style="left: 32.2%; top: 80.6%;">
+              <div class="object-label" style="left: 32.2%; top: 70.6%;">
                 <div class="object-info">
-                  <h3 class="object-title">New York</h3>
+                  <h3 class="object-title">Brasil</h3>
                   <div class="object-content">
-                    +0 595-510-1352<br>
-                    flatley.don@weissnat.me<br>
-                    713 Dibbert Bridge
+                  +55 (41) 99700-8853<br>
+                    contato@modofuturo.com<br>
+                    Avenida Cândido de Abreu, 381
                   </div>
                 </div>
               </div>
               
-              <div class="object-label" style="left: 47.3%; top: 34.5%;">
+              <!-- <div class="object-label" style="left: 47.3%; top: 34.5%;">
                 <div class="object-info">
                   <h3 class="object-title">New York</h3>
                   <div class="object-content">
@@ -703,9 +703,9 @@
                     713 Dibbert Bridge
                   </div>
                 </div>
-              </div>
+              </div> -->
 
-              <div class="object-label" style="left: 64.4%; top: 22.4%;">
+              <!-- <div class="object-label" style="left: 64.4%; top: 22.4%;">
                 <div class="object-info">
                   <h3 class="object-title">New York</h3>
                   <div class="object-content">
@@ -725,9 +725,9 @@
                     713 Dibbert Bridge
                   </div>
                 </div>
-              </div>
+              </div> -->
 
-              <div class="object-label" style="left: 84.4%; top: 82.3%;">
+              <!-- <div class="object-label" style="left: 84.4%; top: 82.3%;">
                 <div class="object-info">
                   <h3 class="object-title">New York</h3>
                   <div class="object-content">
@@ -736,7 +736,7 @@
                     713 Dibbert Bridge
                   </div>
                 </div>
-              </div>
+              </div> -->
             </div>
           </div>
         </div>
