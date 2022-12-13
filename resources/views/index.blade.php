@@ -672,7 +672,7 @@
                 </div>
               </div> -->
 
-              <div class="object-label" style= "background:#00ea00; left: 32.2%; top: 70.6%;">
+              <div class="object-label" style= "background:#00ea00; left: 32.2%; top: 78.6%;">
                 <div class="object-info">
                   <h3 class="object-title">Brasil</h3>
                   <div class="object-content">
